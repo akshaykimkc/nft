@@ -4,7 +4,7 @@ A production-ready NFT marketplace built on the Stellar network using Soroban sm
 
 ## 🚀 Live Demo
 - **Live Application**: [https://lambent-marshmallow-09df9a.netlify.app](https://lambent-marshmallow-09df9a.netlify.app)
-- **Deployment Status**: [Netlify Deploys](https://app.netlify.com/projects/lambent-marshmallow-09df9a/deploys)
+- **Deployment Status**: [Netlify Deploys](https://comfy-cactus-e22dba.netlify.app/)
 
 ## 📊 CI/CD Status
 ![CI Status](https://github.com/akshaykimkc/nft/actions/workflows/ci.yml/badge.svg)
